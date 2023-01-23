@@ -1,3 +1,8 @@
+# see this code live [here](https://moqasalem.github.io/birthday-list/)
+
+# sreen shot
+![Screen] (./screenShot)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
