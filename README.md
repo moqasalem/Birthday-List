@@ -1,7 +1,7 @@
 # see this code live [here](https://moqasalem.github.io/birthday-list/)
 
 # sreen shot
-![Screen] (./screenShot)
+![](./screenShot.jpg)
 
 # Getting Started with Create React App
 
